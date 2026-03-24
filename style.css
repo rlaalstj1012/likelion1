@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        p {
+            color: darkgoldenrod;
+        }
+    </style>
+    <title>HTML CSS 실습</title>
+  </head>
+  <body>
+    <h1 style="color: blue"> 안녕하세요 멋쟁이사자처럼 14기 아기사자 여러분!</h1>
+    <p>FE 강의에 오신걸 환영합니다!</p>
+  </body>
