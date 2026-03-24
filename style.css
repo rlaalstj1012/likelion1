@@ -1,20 +1,14 @@
-/* 전체 선택자 */
-* {
-  color: black;
+ddiv {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  background-color: lightgray;
 }
 
-/* 태그 선택자 */
-div {
-  color: red;
+#padding-box {
+  padding: 20px;
 }
 
-/* 클래스 선택자 */
-.title {
-  background-color: yellow;
-}
-
-/* 아이디 선택자 */
-#username {
-  font-size: 20px;
-  color: blue;
+#margin-box {
+  margin: 20px;
 }
